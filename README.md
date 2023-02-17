@@ -1,6 +1,6 @@
 ## Saudações! 😀
 
-Meu nome é Pedro Minutti e sou estudante de Desenvolvimento Web na #Trybe.
+My name is Pedro Minutti and I'm an Web Development student at #Trybe.
 
 
 <br>
