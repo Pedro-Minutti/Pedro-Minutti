@@ -1,6 +1,6 @@
-<div align="center">
+
 ## Greetings! 
-</div>
+
 <div align="center">
 My name is Pedro Minutti and I'm an Web Development student at #Trybe.
 </div>
