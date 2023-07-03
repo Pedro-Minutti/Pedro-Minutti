@@ -1,4 +1,4 @@
-## Saudações! 😀
+## Saudações! 
 
 My name is Pedro Minutti and I'm an Web Development student at #Trybe.
 
